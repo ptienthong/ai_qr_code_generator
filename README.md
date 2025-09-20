@@ -1,4 +1,5 @@
 # ai_qr_code_generator
+This application generates a QR code of URL address provided by a user from the command prompt.
 
 ## Dependencies
 - Python
